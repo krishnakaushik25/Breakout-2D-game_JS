@@ -6,6 +6,8 @@ We're going to create a game called "2D Breakout" using JavaScript and HTML 5.
 
 In the 2D Breakout game, you need to break all the bricks using a bouncing ball, a ball that you need to prevent from leaving the game area using the paddle.
 
+![Image of 2D Breakout game](https://e7.pngegg.com/pngimages/820/161/png-clipart-breakout-video-game-sprite-atari-sprite-game-angle.png)
+
 I chose to split it into two parts.
 
 In the first segment, code is implemented to draw the paddle and the ball and be able to control the paddle using the left and the right arrows on the keyboard,and  make the ball moves, and also implemented the collision detection logic, so when the ball hits a wall it must change the direction.
